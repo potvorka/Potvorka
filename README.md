@@ -1,6 +1,7 @@
 # Potvorka
 Autori: Martin Šamaj, Zuzana Mareková, Peter Urbanovský
 Naša stránka: http://potvorka.tk
+
 Názov hry: POTVORKA
 
 Programovací jazyk: Imagine
